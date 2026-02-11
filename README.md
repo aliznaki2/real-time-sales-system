@@ -21,8 +21,8 @@ Ce projet est un système complet de vente en ligne qui permet de gérer des pro
 
 ## Fonctionnalités principales
 
-- Inscription et connexion avec gestion des rôles (Admin, User, Customer)
-- Gestion des produits (création, modification, suppression)
+- Inscription et connexion avec gestion des rôles (Admin, User)
+- Gestion des produits (création, suppression)
 - Système de commandes avec gestion automatique du stock
 - Dashboard avec statistiques en temps réel
 - Notifications instantanées pour les nouvelles commandes (admin uniquement)
